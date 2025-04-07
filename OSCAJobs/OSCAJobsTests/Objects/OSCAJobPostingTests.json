@@ -1,0 +1,100 @@
+{
+    "results": [
+        
+        {
+            "objectId": "yXNziO8dJD",
+            "hiringOrganization": {
+                "name": "item Industrietechnik GmbH",
+                "imageUrl": "https://ac1.mammut-hosting.de/stellenportal/files/stellenportal/619e90b73139f2eddca2482df7129ea7_0bcf6c54-2865-4fe2-983a-128a40f21ec7___logo80.jpg",
+                "branch": "Maschinen- und Anlagenbau"
+            },
+            "datePosted": {
+                "__type": "Date",
+                "iso": "2022-05-16T00:00:00.000Z"
+            },
+            "sourceUrl": "https://stellenportal-solingen.de",
+            "sourceId": "dEWQUFZdCY",
+            "title": "Mitarbeiter (m/w/d) Leitstand Lager/Logistik \u2013 Kleinteilelager",
+            "url": "https://stellenportal-solingen.de/frame/item-industrietechnik-gmbh-mitarbeiter-mwd-leitstand-lagerlogistik-kleinteilelager",
+            "employmentType": "full-time",
+            "createdAt": "2022-05-18T09:00:03.353Z",
+            "updatedAt": "2022-07-15T06:00:06.249Z"
+        },
+        {
+            "objectId": "wm4vBT4h3k",
+            "hiringOrganization": {
+                "name": "H.H. Schmidt & Co. GmbH - Fahnen Schmidt Solingen",
+                "imageUrl": "https://ac1.mammut-hosting.de/stellenportal/files/stellenportal/895f7a9f29f7f6932e7d6f1d17d64e48_b70d4204-6830-428d-b273-ebc30e2b21b8___unternehmen_logo_CtEqmdxOXk.png",
+                "branch": "Metallbau"
+            },
+            "datePosted": {
+                "__type": "Date",
+                "iso": "2022-05-15T00:00:00.000Z"
+            },
+            "sourceUrl": "https://stellenportal-solingen.de",
+            "sourceId": "RavSrvxQHm",
+            "title": "Monteur f\u00fcr Fahnenmasten (m/w/d)",
+            "url": "https://stellenportal-solingen.de/frame/christian-schmidt-monteur-fuer-fahnenmasten-mwd",
+            "employmentType": "part-time",
+            "createdAt": "2022-05-18T09:00:03.392Z",
+            "updatedAt": "2022-07-15T06:00:06.263Z"
+        },
+        {
+            "objectId": "KGS4AaJfcD",
+            "hiringOrganization": {
+                "name": "Ledlenser GmbH & Co. KG",
+                "imageUrl": "https://ac1.mammut-hosting.de/stellenportal/files/stellenportal/3859ec16209a6c719fce83c48f8bfc09_5dc0cf73-e883-4d1b-8f47-4f6569fe92c1___unternehmen_logo_CRkGJigFGO.png",
+                "branch": "Elektrotechnik"
+            },
+            "datePosted": {
+                "__type": "Date",
+                "iso": "2022-05-12T00:00:00.000Z"
+            },
+            "sourceUrl": "https://stellenportal-solingen.de",
+            "sourceId": "fqAKWBMOwi",
+            "title": "Studentische Aushilfe - f\u00fcr den Bereich Softwareentwicklung",
+            "url": "https://stellenportal-solingen.de/frame/ledlenser-gmbh-und-co-kg-studentische-aushilfe-fuer-den-bereich-softwareentwicklung",
+            "employmentType": "part-time",
+            "createdAt": "2022-05-18T09:00:03.519Z",
+            "updatedAt": "2022-07-15T06:00:06.278Z"
+        },
+        {
+            "objectId": "Py72TJKdjG",
+            "hiringOrganization": {
+                "name": "Peiniger Personalberatung GmbH",
+                "imageUrl": "https://ac1.mammut-hosting.de/stellenportal/files/stellenportal/d0c69f86c67e48610e5aa3542cc45e4e_e42bf42a-5be8-4010-9447-b311fd0084ca___logo148.jpg",
+                "branch": "Metallbearbeitung"
+            },
+            "datePosted": {
+                "__type": "Date",
+                "iso": "2022-06-14T00:00:00.000Z"
+            },
+            "sourceUrl": "https://stellenportal-solingen.de",
+            "sourceId": "JsvbbbeQt7",
+            "title": "CNC-Fr\u00e4ser (d/m/w) P43/64",
+            "url": "https://stellenportal-solingen.de/frame/peiniger-personalberatung-gmbh-cnc-fraeser-dmw-p4056",
+            "employmentType": "full-time",
+            "createdAt": "2022-05-18T09:00:03.660Z",
+            "updatedAt": "2022-07-15T06:00:05.037Z"
+        },
+        {
+            "objectId": "5N4qwH3dHa",
+            "hiringOrganization": {
+                "name": "Peiniger Personalberatung GmbH",
+                "imageUrl": "https://ac1.mammut-hosting.de/stellenportal/files/stellenportal/d0c69f86c67e48610e5aa3542cc45e4e_e42bf42a-5be8-4010-9447-b311fd0084ca___logo148.jpg",
+                "branch": "Sauberkeit und Hygiene"
+            },
+            "datePosted": {
+                "__type": "Date",
+                "iso": "2022-06-14T00:00:00.000Z"
+            },
+            "sourceUrl": "https://stellenportal-solingen.de",
+            "sourceId": "2ESNFGiuxL",
+            "title": "Objektleiter Geb\u00e4udereinigung (d/m/w) P65/78",
+            "url": "https://stellenportal-solingen.de/frame/peiniger-personalberatung-gmbh-objektleiter-gebaeudereinigung-dmw-p6578",
+            "employmentType": "full-time",
+            "createdAt": "2022-05-18T09:00:03.691Z",
+            "updatedAt": "2022-07-15T06:00:05.051Z"
+        }
+    ]
+}
